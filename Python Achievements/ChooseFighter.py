@@ -122,6 +122,29 @@ if(inputPlayer1 == inputA):
                 print("MESSATSU!")
             else: 
                 print("Yeah, that makes sense! Prepare to strike!")
+        if(TrdStrikePlaystyle == input3SPlaystyleB):
+            print("All right, that's cool! Choose and pick the best one!")
+            print("A. Ryu  B. Remy  C. Gill")
+            input3SZoneA = "Ryu"
+            input3SZoneB = "Remy"
+            input3SZoneC = "Gill"
+            TrdStrikeZoner = input("CHOOSE YOUR FIGHTER: ")
+        if(TrdStrikePlaystyle == input3SPlaystyleC):
+            print("All right, that's cool! Choose and pick the best one!")
+            print("A. Hugo  B. Oro")
+            input3SGrabA = "Hugo"
+            input3SGrabB = "Oro"
+            TrdStrikeGrappler = input("CHOOSE YOUR FIGHTER: ")
+            if(TrdStrikeGrappler == input3SGrabA):
+                print("EINZ! ZWEI! DREI! EEEENDE!!!")
+            else:
+                print("Yeah, that makes sense! Prepare to strike!")
+
+
+        
+            
+            
+            
 
 
             
