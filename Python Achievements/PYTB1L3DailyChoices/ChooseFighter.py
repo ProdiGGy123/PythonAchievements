@@ -140,6 +140,7 @@ if(inputPlayer1 == inputA):
             else:
                 print("Yeah, that makes sense! Prepare to strike!")
 
+    
 
         
             
